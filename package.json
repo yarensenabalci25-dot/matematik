@@ -1,6 +1,6 @@
 {
   "name": "yaren-math-utils",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "7. Sınıf Matematik için Türkçe yardımcı fonksiyonlar kütüphanesi",
   "main": "index.js",
   "scripts": {
