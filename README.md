@@ -1,6 +1,6 @@
 # Yaren Math Utils
 
-7. Sınıf Matematik için Türkçe yardımcı fonksiyonlar kütüphanesi.
+7. Sınıf Matematik için Türkçe yardımcı fonksiyonlar kütüphanesi. 
 
 ## Kurulum
 
