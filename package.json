@@ -1,0 +1,26 @@
+{
+  "name": "yaren-math-utils",
+  "version": "1.0.0",
+  "description": "7. Sınıf Matematik için Türkçe yardımcı fonksiyonlar kütüphanesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "matematik",
+    "math",
+    "türkçe",
+    "7. sınıf",
+    "yüzde",
+    "kesir",
+    "istatistik",
+    "geometri",
+    "cebir"
+  ],
+  "author": "Yaren",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaren/yaren-math-utils.git"
+  }
+}
